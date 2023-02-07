@@ -4,7 +4,7 @@ Docker and Github Action for Kubernetes CLI
 This action provides kubectl for Github Actions.
 
 Usage
-.github/workflows/push.yml
+.github/workflows/action.yml
 
 on: push
 name: deploy
